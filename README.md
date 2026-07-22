@@ -1,31 +1,15 @@
-# Hi there, I'm Jaber Vargas 👋
+# ⚡ Jaber Vargas | Software Engineer Student
 
-I'm a **Software Engineering Student** from Colombia 🇨🇴 passionate about web development, databases, and problem-solving.
+Welcome to my GitHub profile! I'm a developer from Colombia constantly learning and building modern applications.
 
----
+### 📌 What I do:
+- 🎨 **Frontend:** Building responsive and interactive UIs with **HTML5, CSS3, and JavaScript**.
+- ⚙️ **Backend & Logic:** Developing core features using **Java**.
+- 🗄️ **Databases:** Designing relational databases using **SQL** & **MySQL Workbench**.
 
-### 🚀 About Me
-* 🎓 Currently studying Software Engineering.
-* 💻 Expanding my knowledge in **Web Development** and **Database Architecture**.
-* 🎯 Goal: Become a high-performing Developer.
+### 🛠️ Technologies
+`Java` • `JavaScript` • `HTML5` • `CSS3` • `SQL` • `MySQL Workbench` • `Git` • `GitHub`
 
----
-
-### 🛠️ Tech Stack & Tools
-
-**Frontend & Styling**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Languages & Databases**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-📫 **Connect with me:** [LinkedIn](https://linkedin.com) | [Email](mailto:jabervargas@gmail.com)
+### 📊 Stats
+*(Si quieres mostrar estadísticas automáticas de GitHub, puedes agregar estas tarjetas)*
+![Jaber's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabervargas&show_icons=true&theme=dark)
