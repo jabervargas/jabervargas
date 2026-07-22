@@ -1,28 +1,31 @@
-<h1 align="left">Hey 👋 I'm Jaber What's up?</h1>
+# Hi there, I'm Jaber Vargas 👋
 
-###
+I'm a **Software Engineering Student** from Colombia 🇨🇴 passionate about web development, databases, and problem-solving.
 
-<p align="left">My name is Jaber Vargas and I'm a Software Engenieer Student, from Colombia</p>
+---
 
-###
+### 🚀 About Me
+* 🎓 Currently studying Software Engineering.
+* 💻 Expanding my knowledge in **Full-Stack Web Development** and **Database Architecture**.
+* 🎯 Goal: Become a high-performing Developer.
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🛠️ Tech Stack & Tools
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Java<br>🎯 Goals: Competetive Developer<br></p>
+**Frontend & Styling**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-###
+**Languages & Databases**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h2 align="left">I code with</h2>
+**Tools**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-
-</div>
-
-###
--->
+📫 **Connect with me:** [LinkedIn](https://linkedin.com) | [Email](mailto:tu-correo@email.com)
