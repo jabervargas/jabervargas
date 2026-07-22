@@ -6,7 +6,7 @@ I'm a **Software Engineering Student** from Colombia 🇨🇴 passionate about w
 
 ### 🚀 About Me
 * 🎓 Currently studying Software Engineering.
-* 💻 Expanding my knowledge in **Full-Stack Web Development** and **Database Architecture**.
+* 💻 Expanding my knowledge in **Web Development** and **Database Architecture**.
 * 🎯 Goal: Become a high-performing Developer.
 
 ---
@@ -28,4 +28,4 @@ I'm a **Software Engineering Student** from Colombia 🇨🇴 passionate about w
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://linkedin.com) | [Email](mailto:tu-correo@email.com)
+📫 **Connect with me:** [LinkedIn](https://linkedin.com) | [Email](mailto:jabervargas@gmail.com)
