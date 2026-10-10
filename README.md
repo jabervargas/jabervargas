@@ -1,4 +1,4 @@
-#  Jaber Vargas | Software Engineer Student
+#  Jaber Vargas Echeverria | Software Engineer Student
 
 Welcome to my GitHub profile! I'm a developer from Colombia 🇨🇴 constantly learning and building modern web applications.
 
